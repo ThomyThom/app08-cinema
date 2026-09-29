@@ -2,7 +2,7 @@
 
 > Uma aplicação desktop educacional para gerenciamento de cinemas, desenvolvida em C# com Windows Forms e SQL Server. Projeto escolar com sistema inovador de mudança entre máquinas de laboratório.
 
-**Status:** Em andamento | **Conclusão prevista:** Fev/2026
+**Status:** Concluída
 
 ---
 
